@@ -1,6 +1,6 @@
 import styles from './HookahItem.module.scss'
 
-const HookahItem = ({ brand, flavor, picture }) => {
+const HookahItem = ({ flavor, picture }) => {
     return (
         <div className={styles.hookahItem}>
             {flavor}
