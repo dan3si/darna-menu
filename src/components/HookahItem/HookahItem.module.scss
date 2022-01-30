@@ -1,0 +1,23 @@
+.hookahItem {
+    width: 100%;
+    max-width: 400px;
+    padding: 30px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    font-size: 24px;
+    border-bottom: 1px solid #ffaa80;
+
+    @media (max-width: 400px) {
+        flex-direction: column;
+    }
+}
+
+.pictureWrapper {
+    width: 200px;
+}
+
+.picture {
+    width: 100%;
+}
