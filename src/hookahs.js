@@ -23,6 +23,15 @@ import fumariSweetMint from './images/hookahs/fumari/fumari_sweet_mint.jpg'
 import fumariTangelo from './images/hookahs/fumari/fumari_tangelo.jpg'
 import fumariLemonLoaf from './images/hookahs/fumari/fumari_lemon_loaf.jpg'
 import fumariAmbrosia from './images/hookahs/fumari/fumari_ambrosia.jpg'
+import fumariBlueberryMuffin from './images/hookahs/fumari/fumari_blueberry_muffin.jpg'
+import fumariSummerSorbetto from './images/hookahs/fumari/fumari_summer_sorbetto.jpg'
+import fumariWatermelon from './images/hookahs/fumari/fumari_watermelon.jpg'
+import fumariRedGummiBear from './images/hookahs/fumari/fumari_red_gummi_bear.jpg'
+import fumariWhiteGummiBear from './images/hookahs/fumari/fumari_white_gummi_bear.jpg'
+import fumariPurpleGrape from './images/hookahs/fumari/fumari_purple_grape.jpg'
+import fumariPricklyPear from './images/hookahs/fumari/fumari_prickly_pear.jpg'
+import fumariMojito from './images/hookahs/fumari/fumari_mojito.jpg'
+import fumariCarribeanCollada from './images/hookahs/fumari/fumari_carribean_collada.jpg'
 
 export default [
     {
@@ -162,6 +171,60 @@ export default [
         brand: 'Fumari',
         flavor: 'Ambrosia',
         picture: fumariAmbrosia,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Blueberry Muffin',
+        picture: fumariBlueberryMuffin,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Summer Sorbetto',
+        picture: fumariSummerSorbetto,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Watermelon',
+        picture: fumariWatermelon,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Red Gummi Bear',
+        picture: fumariRedGummiBear,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'White Gummi Bear',
+        picture: fumariWhiteGummiBear,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Purple grape',
+        picture: fumariPurpleGrape,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Prickly Pear',
+        picture: fumariPricklyPear,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Carribean Collada',
+        picture: fumariCarribeanCollada,
+        available: true
+    },
+    {
+        brand: 'Fumari',
+        flavor: 'Mojito',
+        picture: fumariMojito,
         available: true
     }
 ]
