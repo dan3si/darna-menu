@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/darna-menu/static/css/main.804500bf.css",
+    "main.js": "/darna-menu/static/js/main.69e031e4.js",
+    "static/media/al_fakher_peach.png": "/darna-menu/static/media/al_fakher_peach.2b92e4b0e25251280067.png",
+    "static/media/al_fakher_mint.jpg": "/darna-menu/static/media/al_fakher_mint.a481e8ffded0a0a398a2.jpg",
+    "static/media/al_fakher_double_apple.jpg": "/darna-menu/static/media/al_fakher_double_apple.f7d3bada502bcba76e1f.jpg",
+    "static/media/al_fakher_orange.jpg": "/darna-menu/static/media/al_fakher_orange.7d68a896679ff0c67dc5.jpg",
+    "static/media/al_fakher_grapefruit.jpg": "/darna-menu/static/media/al_fakher_grapefruit.eecb979675ea48423aed.jpg",
+    "static/media/al_fakher_watermelon.jpg": "/darna-menu/static/media/al_fakher_watermelon.b7ffa7ee05c892ad7198.jpg",
+    "static/media/al_fakher_lemon.jpg": "/darna-menu/static/media/al_fakher_lemon.17ea3fd0cc7f19c8f3aa.jpg",
+    "static/media/al_fakher_strawberry.jpg": "/darna-menu/static/media/al_fakher_strawberry.ad0fdbd279a40d4c22ba.jpg",
+    "static/media/al_fakher_grape.jpg": "/darna-menu/static/media/al_fakher_grape.d7e546d3effd838808d6.jpg",
+    "static/media/al_fakher_qiwi.jpg": "/darna-menu/static/media/al_fakher_qiwi.028841319053ae5e561c.jpg",
+    "index.html": "/darna-menu/index.html",
+    "main.804500bf.css.map": "/darna-menu/static/css/main.804500bf.css.map",
+    "main.69e031e4.js.map": "/darna-menu/static/js/main.69e031e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.804500bf.css",
+    "static/js/main.69e031e4.js"
+  ]
+}
