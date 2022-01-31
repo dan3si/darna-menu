@@ -1,6 +1,29 @@
-
 .categoryLink {
+    width: 100%;
+    max-width: 500px;
+    padding: 30px 10px;
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
+    gap: 40px;
+    font-size: 24px;
+    border-bottom: 1px solid #ffaa80;
+
+    @media (max-width: 500px) {
+        flex-direction: column;
+    }
+}
+
+.categoryLink:hover > .categoryPicture {
+    transform: scale(1.05);
+}
+
+.categoryHeading {
+    font-size: 24px;
+    color: black;
+}
+
+.categoryPicture {
+    width: 200px;
+    transition: 0.5s;
 }
