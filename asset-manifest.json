@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/darna-menu/static/css/main.804500bf.css",
-    "main.js": "/darna-menu/static/js/main.c10e8e9d.js",
+    "main.css": "/darna-menu/static/css/main.8b35c8e0.css",
+    "main.js": "/darna-menu/static/js/main.918b6c37.js",
     "static/media/al_fakher_pineapple.jpg": "/darna-menu/static/media/al_fakher_pineapple.186258cd609a66b7bee9.jpg",
     "static/media/fumari_tangelo.jpg": "/darna-menu/static/media/fumari_tangelo.b3615c958c3b3d06b335.jpg",
     "static/media/fumari_sweet_mint.jpg": "/darna-menu/static/media/fumari_sweet_mint.42df0d92a9cd9147ea94.jpg",
     "static/media/fumari_red_gummi_bear.jpg": "/darna-menu/static/media/fumari_red_gummi_bear.78f5d5c5da2a0ee12fc8.jpg",
+    "static/media/tangiers_strawberry.jpg": "/darna-menu/static/media/tangiers_strawberry.9918e8c75fc0730e74c4.jpg",
     "static/media/fumari_white_gummi_bear.jpg": "/darna-menu/static/media/fumari_white_gummi_bear.5212a1c6e64ea09da1ca.jpg",
+    "static/media/tangiers_sevilla_orange.jpg": "/darna-menu/static/media/tangiers_sevilla_orange.329d0a230fb22c98cd36.jpg",
     "static/media/al_fakher_mint.jpg": "/darna-menu/static/media/al_fakher_mint.a481e8ffded0a0a398a2.jpg",
     "static/media/fumari_mojito.jpg": "/darna-menu/static/media/fumari_mojito.a8326156fab646966fee.jpg",
     "static/media/social_smoke_watermelon_chill.jpg": "/darna-menu/static/media/social_smoke_watermelon_chill.95724d1b1f794c1c21dc.jpg",
+    "static/media/tangiers_experimint.jpg": "/darna-menu/static/media/tangiers_experimint.5ceca15c24176f2bd3c6.jpg",
     "static/media/fumari_prickly_pear.jpg": "/darna-menu/static/media/fumari_prickly_pear.f368d530779bfe325c79.jpg",
     "static/media/fumari_purple_grape.jpg": "/darna-menu/static/media/fumari_purple_grape.c86c61a3da9f886a3091.jpg",
     "static/media/fumari_carribean_collada.jpg": "/darna-menu/static/media/fumari_carribean_collada.b5c6ec13e20abedadc65.jpg",
@@ -22,6 +25,7 @@
     "static/media/al_fakher_peach.jpg": "/darna-menu/static/media/al_fakher_peach.fedc295b34910134f54c.jpg",
     "static/media/al_fakher_lemon.jpg": "/darna-menu/static/media/al_fakher_lemon.17ea3fd0cc7f19c8f3aa.jpg",
     "static/media/al_fakher_coconut.jpg": "/darna-menu/static/media/al_fakher_coconut.2e0794a369d4537cd914.jpg",
+    "static/media/tangiers_new_lemon_lime.jpg": "/darna-menu/static/media/tangiers_new_lemon_lime.8c4ff4cee12809bdf4b3.jpg",
     "static/media/fumari_watermelon.jpg": "/darna-menu/static/media/fumari_watermelon.04616045e4123b43f50f.jpg",
     "static/media/fumari_summer_sorbetto.jpg": "/darna-menu/static/media/fumari_summer_sorbetto.cf95f34daaa5622b461f.jpg",
     "static/media/fumari_ambrosia.jpg": "/darna-menu/static/media/fumari_ambrosia.4347c9659fabd73f7fac.jpg",
@@ -31,14 +35,30 @@
     "static/media/al_fakher_qiwi.jpg": "/darna-menu/static/media/al_fakher_qiwi.028841319053ae5e561c.jpg",
     "static/media/social_smoke_cantaloupe_chill.jpg": "/darna-menu/static/media/social_smoke_cantaloupe_chill.cca2c5c1aba77ce4d70d.jpg",
     "static/media/social_smoke_pear_chill.jpg": "/darna-menu/static/media/social_smoke_pear_chill.39de41f092a92174a461.jpg",
+    "static/media/tangiers_blackberry.jpg": "/darna-menu/static/media/tangiers_blackberry.1e616740b6b142a2c67e.jpg",
     "static/media/fumari_blueberry_muffin.jpg": "/darna-menu/static/media/fumari_blueberry_muffin.14d8ee42e124d49993eb.jpg",
+    "static/media/tangiers_summer_resort.jpg": "/darna-menu/static/media/tangiers_summer_resort.8d522abe4f9f43fbb1b0.jpg",
+    "static/media/tangiers_watermelon.jpg": "/darna-menu/static/media/tangiers_watermelon.baa94e9f3f135864bb26.jpg",
+    "static/media/tangiers_tropical_punch.jpg": "/darna-menu/static/media/tangiers_tropical_punch.9dbfbdc8229060f5a859.jpg",
+    "static/media/tangiers_cane_mint.jpg": "/darna-menu/static/media/tangiers_cane_mint.5dda0b1e8a8cdcea7ac4.jpg",
+    "static/media/tangiers_blueberry.jpg": "/darna-menu/static/media/tangiers_blueberry.998e729624bbd670467a.jpg",
+    "static/media/tangiers_brambleberry.jpg": "/darna-menu/static/media/tangiers_brambleberry.ddcb3b40b04ff55ffa86.jpg",
     "static/media/fumari_lemon_loaf.jpg": "/darna-menu/static/media/fumari_lemon_loaf.cc7b71cb073ef8f5cceb.jpg",
+    "static/media/tangiers_kashmir_blue.jpg": "/darna-menu/static/media/tangiers_kashmir_blue.ab053867f8cd7d82fbc3.jpg",
+    "static/media/tangiers_tasty_peach.jpg": "/darna-menu/static/media/tangiers_tasty_peach.1ecac7b4c28b05d0506f.jpg",
+    "static/media/tangiers_raspberry.jpg": "/darna-menu/static/media/tangiers_raspberry.0df33535b760581ce242.jpg",
+    "static/media/tangiers_peach_iced_tea.jpg": "/darna-menu/static/media/tangiers_peach_iced_tea.ea3d59e8549dc5b2acec.jpg",
+    "static/media/social-smoke_category.jpg": "/darna-menu/static/media/social-smoke_category.3319f0b506a0c02d87e6.jpg",
+    "static/media/tangiers_category.jpg": "/darna-menu/static/media/tangiers_category.a2d49c3cf67fc2d4ae62.jpg",
+    "static/media/al-fakher_category.jpg": "/darna-menu/static/media/al-fakher_category.f8d76488f849aa18772f.jpg",
+    "static/media/tangiers_papaya_sorbet.jpg": "/darna-menu/static/media/tangiers_papaya_sorbet.12410ca2a4435a543dc8.jpg",
+    "static/media/fumari_category.jpg": "/darna-menu/static/media/fumari_category.7f6ba07d99ba86739d78.jpg",
     "index.html": "/darna-menu/index.html",
-    "main.804500bf.css.map": "/darna-menu/static/css/main.804500bf.css.map",
-    "main.c10e8e9d.js.map": "/darna-menu/static/js/main.c10e8e9d.js.map"
+    "main.8b35c8e0.css.map": "/darna-menu/static/css/main.8b35c8e0.css.map",
+    "main.918b6c37.js.map": "/darna-menu/static/js/main.918b6c37.js.map"
   },
   "entrypoints": [
-    "static/css/main.804500bf.css",
-    "static/js/main.c10e8e9d.js"
+    "static/css/main.8b35c8e0.css",
+    "static/js/main.918b6c37.js"
   ]
 }
