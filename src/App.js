@@ -25,9 +25,7 @@ function App() {
 
             <Route path="/hookahs/tangiers" element={<TangiersPage />} />
 
-            <Route path="/hookahs" element={<HookahsPage />} />
-
-            <Route path="/" element={<>home</>} />
+            <Route path="/" element={<HookahsPage />} />
           </Routes>
         </Router>
     </div>
