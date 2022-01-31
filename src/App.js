@@ -1,54 +1,35 @@
-import HookahItem from './components/HookahItem'
-import hookahs from './hookahs'
+import HookahsPage from './pages/Hookahs'
 import styles from './App.module.scss'
+
+import AlFakherPage from './pages/AlFakher'
+import SocialSmokePage from './pages/SocialSmoke'
+import FumariPage from './pages/Fumari'
+import TangiersPage from './pages/Tangiers'
+
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+} from "react-router-dom";
 
 function App() {
   return (
     <div className={styles.app}>
-      <h2 className={styles.heading}>Al Fakher - $25</h2>
+      <Router>
+        <Routes>
+            <Route path="/hookahs/al-fakher" element={<AlFakherPage />} />
 
-      {hookahs.map(
-        ({ brand, flavor, picture, available }) => {
-          if (!available || brand !== 'Al Fakher') return null
+            <Route path="/hookahs/social-smoke" element={<SocialSmokePage />} />
 
-          return (
-            <HookahItem
-              flavor={flavor}
-              picture={picture}
-            />
-          )
-        }
-      )}
+            <Route path="/hookahs/fumari" element={<FumariPage />} />
 
-      <h2 className={styles.heading}>Social smoke - $30</h2>
+            <Route path="/hookahs/tangiers" element={<TangiersPage />} />
 
-      {hookahs.map(
-        ({ brand, flavor, picture, available }) => {
-          if (!available || brand !== 'Social smoke') return null
+            <Route path="/hookahs" element={<HookahsPage />} />
 
-          return (
-            <HookahItem
-              flavor={flavor}
-              picture={picture}
-            />
-          )
-        }
-      )}
-
-      <h2 className={styles.heading}>Fumari - $30</h2>
-
-      {hookahs.map(
-        ({ brand, flavor, picture, available }) => {
-          if (!available || brand !== 'Fumari') return null
-
-          return (
-            <HookahItem
-              flavor={flavor}
-              picture={picture}
-            />
-          )
-        }
-      )}
+            <Route path="/" element={<>home</>} />
+          </Routes>
+        </Router>
     </div>
   );
 }

@@ -33,7 +33,24 @@ import fumariPricklyPear from './images/hookahs/fumari/fumari_prickly_pear.jpg'
 import fumariMojito from './images/hookahs/fumari/fumari_mojito.jpg'
 import fumariCarribeanCollada from './images/hookahs/fumari/fumari_carribean_collada.jpg'
 
-export default [
+import tangiersBlackberry from './images/hookahs/tangiers/tangiers_blackberry.jpg'
+import tangiersBlueberry from './images/hookahs/tangiers/tangiers_blueberry.jpg'
+import tangiersBrambleberry from './images/hookahs/tangiers/tangiers_brambleberry.jpg'
+import tangiersCaneMint from './images/hookahs/tangiers/tangiers_cane_mint.jpg'
+import tangiersExperimint from './images/hookahs/tangiers/tangiers_experimint.jpg'
+import tangiersKashmirBlue from './images/hookahs/tangiers/tangiers_kashmir_blue.jpg'
+import tangiersNewLemonLime from './images/hookahs/tangiers/tangiers_new_lemon_lime.jpg'
+import tangiersPapayaSorbet from './images/hookahs/tangiers/tangiers_papaya_sorbet.jpg'
+import tangiersPeachIcedTea from './images/hookahs/tangiers/tangiers_peach_iced_tea.jpg'
+import tangiersRaspberry from './images/hookahs/tangiers/tangiers_raspberry.jpg'
+import tangiersSevillaOrange from './images/hookahs/tangiers/tangiers_sevilla_orange.jpg'
+import tangiersStrawberry from './images/hookahs/tangiers/tangiers_strawberry.jpg'
+import tangiersSummerResort from './images/hookahs/tangiers/tangiers_summer_resort.jpg'
+import tangiersTastyPeach from './images/hookahs/tangiers/tangiers_tasty_peach.jpg'
+import tangiersTropicalPunch from './images/hookahs/tangiers/tangiers_tropical_punch.jpg'
+import tangiersWatermelon from './images/hookahs/tangiers/tangiers_watermelon.jpg'
+
+const hookahs = [
     {
         brand: 'Al Fakher',
         flavor: 'Blueberry',
@@ -132,19 +149,19 @@ export default [
         available: true
     },
     {
-        brand: 'Social smoke',
+        brand: 'Social Smoke',
         flavor: 'Watermelon chill',
         picture: socialSmokeWatermelonChill,
         available: true
     },
     {
-        brand: 'Social smoke',
+        brand: 'Social Smoke',
         flavor: 'Pear chill',
         picture: socialSmokePearChill,
         available: true
     },
     {
-        brand: 'Social smoke',
+        brand: 'Social Smoke',
         flavor: 'Cantaloupe chill',
         picture: socialSmokeCantaloupeChill,
         available: true
@@ -226,5 +243,103 @@ export default [
         flavor: 'Mojito',
         picture: fumariMojito,
         available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Blackberry',
+        picture: tangiersBlackberry,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Blueberry',
+        picture: tangiersBlueberry,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Brambleberry',
+        picture: tangiersBrambleberry,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Cane Mint',
+        picture: tangiersCaneMint,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Experimint',
+        picture: tangiersExperimint,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Kashmir Blue',
+        picture: tangiersKashmirBlue,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'New Lemon Lime',
+        picture: tangiersNewLemonLime,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Papaya Sorbet',
+        picture: tangiersPapayaSorbet,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Peach Iced Tea',
+        picture: tangiersPeachIcedTea,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Raspberry',
+        picture: tangiersRaspberry,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Sevilla Orange',
+        picture: tangiersSevillaOrange,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Strawberry',
+        picture: tangiersStrawberry,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Summer Resort',
+        picture: tangiersSummerResort,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Tasty Peach',
+        picture: tangiersTastyPeach,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Tropical Punch',
+        picture: tangiersTropicalPunch,
+        available: true
+    },
+    {
+        brand: 'Tangiers',
+        flavor: 'Watermelon',
+        picture: tangiersWatermelon,
+        available: true
     }
 ]
+
+export default hookahs

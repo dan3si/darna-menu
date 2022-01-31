@@ -1,6 +1,6 @@
 .hookahItem {
     width: 100%;
-    max-width: 400px;
+    max-width: 500px;
     padding: 30px 10px;
     display: flex;
     justify-content: space-between;
@@ -9,7 +9,7 @@
     font-size: 24px;
     border-bottom: 1px solid #ffaa80;
 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
         flex-direction: column;
     }
 }
