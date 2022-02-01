@@ -1,3 +1,10 @@
+.pageHeading {
+    text-align: center;
+    color: darken(#ffaa80, 10%);
+    font-family: 'Indie Flower', cursive;
+    font-size: 48px;
+}
+
 .categoryLink {
     width: 100%;
     max-width: 500px;
@@ -8,19 +15,25 @@
     gap: 40px;
     font-size: 24px;
     border-bottom: 1px solid #ffaa80;
+    transition: 1s;
 
     @media (max-width: 500px) {
         flex-direction: column;
     }
 }
 
-.categoryLink:hover > .categoryPicture {
-    transform: scale(1.05);
+.categoryLink:hover {
+    border-color: darken(#ffaa80, 15%);
+
+    .categoryPicture {
+        transform: scale(1.05);
+    }
 }
 
 .categoryHeading {
     font-size: 24px;
     color: black;
+    font-family: 'Times New Roman';
 }
 
 .categoryPicture {

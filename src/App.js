@@ -1,10 +1,7 @@
 import HookahsPage from './pages/Hookahs'
 import styles from './App.module.scss'
-
-import AlFakherPage from './pages/AlFakher'
-import SocialSmokePage from './pages/SocialSmoke'
-import FumariPage from './pages/Fumari'
-import TangiersPage from './pages/Tangiers'
+import Header from './components/Header'
+import HookahBrandPage from './pages/HookahBrand'
 
 import {
   BrowserRouter as Router,
@@ -16,16 +13,20 @@ function App() {
   return (
     <div className={styles.app}>
       <Router>
+        <Header />
+
         <Routes>
-            <Route path="/hookahs/al-fakher" element={<AlFakherPage />} />
+            <Route path="/darna-menu" element={<HookahsPage />} />
 
-            <Route path="/hookahs/social-smoke" element={<SocialSmokePage />} />
+            <Route path="/darna-menu/hookahs/al-fakher" element={<HookahBrandPage brand="Al Fakher" price={25} />} />
 
-            <Route path="/hookahs/fumari" element={<FumariPage />} />
+            <Route path="/darna-menu/hookahs/social-smoke" element={<HookahBrandPage brand="Social Smoke" price={30} />} />
 
-            <Route path="/hookahs/tangiers" element={<TangiersPage />} />
+            <Route path="/darna-menu/hookahs/fumari" element={<HookahBrandPage brand="Fumari" price={30} />} />
 
-            <Route path="/" element={<HookahsPage />} />
+            <Route path="/darna-menu/hookahs/tangiers" element={<HookahBrandPage brand="Tangiers" price={35} />} />
+
+            <Route path="/darna-menu/hookahs/darkside" element={<HookahBrandPage brand="Darkside" price={35} />} />
           </Routes>
         </Router>
     </div>

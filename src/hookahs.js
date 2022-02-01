@@ -50,6 +50,10 @@ import tangiersTastyPeach from './images/hookahs/tangiers/tangiers_tasty_peach.j
 import tangiersTropicalPunch from './images/hookahs/tangiers/tangiers_tropical_punch.jpg'
 import tangiersWatermelon from './images/hookahs/tangiers/tangiers_watermelon.jpg'
 
+import darksideLemonBlast from './images/hookahs/darkside/darkside_lemon_blast.jpg'
+import darksideBlueberryBlast from './images/hookahs/darkside/darkside_blueberry_blast.jpg'
+import darksideDarkMint from './images/hookahs/darkside/darkside_dark_mint.jpg'
+
 const hookahs = [
     {
         brand: 'Al Fakher',
@@ -338,6 +342,24 @@ const hookahs = [
         brand: 'Tangiers',
         flavor: 'Watermelon',
         picture: tangiersWatermelon,
+        available: true
+    },
+    {
+        brand: 'Darkside',
+        flavor: 'Lemon Blast',
+        picture: darksideLemonBlast,
+        available: true
+    },
+    {
+        brand: 'Darkside',
+        flavor: 'Blueberry Blast',
+        picture: darksideBlueberryBlast,
+        available: true
+    },
+    {
+        brand: 'Darkside',
+        flavor: 'Dark Mint',
+        picture: darksideDarkMint,
         available: true
     }
 ]

@@ -1,0 +1,27 @@
+.header {
+    background: rgba(255, 255, 255, 0.9);
+    width: 100%;
+    position: sticky;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 10px darken(#ffaa80, 10%);
+    padding: 10px 30px;
+    z-index: 1;
+}
+
+.toHomeLink {
+    display: flex;
+    align-items: center;
+    color: black;
+    text-decoration: none;
+}
+
+.logo {
+    width: 50px;
+}
+
+.homeInscrption {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 10px;
+}
