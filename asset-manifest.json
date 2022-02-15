@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/darna-menu/static/css/main.4f6af569.css",
-    "main.js": "/darna-menu/static/js/main.7ab34912.js",
+    "main.css": "/darna-menu/static/css/main.cbd94c71.css",
+    "main.js": "/darna-menu/static/js/main.112e7eb7.js",
     "static/media/al_fakher_pineapple.jpg": "/darna-menu/static/media/al_fakher_pineapple.186258cd609a66b7bee9.jpg",
     "static/media/fumari_tangelo.jpg": "/darna-menu/static/media/fumari_tangelo.b3615c958c3b3d06b335.jpg",
     "static/media/fumari_sweet_mint.jpg": "/darna-menu/static/media/fumari_sweet_mint.42df0d92a9cd9147ea94.jpg",
@@ -59,11 +59,11 @@
     "static/media/tangiers_papaya_sorbet.jpg": "/darna-menu/static/media/tangiers_papaya_sorbet.12410ca2a4435a543dc8.jpg",
     "static/media/fumari_category.jpg": "/darna-menu/static/media/fumari_category.7f6ba07d99ba86739d78.jpg",
     "index.html": "/darna-menu/index.html",
-    "main.4f6af569.css.map": "/darna-menu/static/css/main.4f6af569.css.map",
-    "main.7ab34912.js.map": "/darna-menu/static/js/main.7ab34912.js.map"
+    "main.cbd94c71.css.map": "/darna-menu/static/css/main.cbd94c71.css.map",
+    "main.112e7eb7.js.map": "/darna-menu/static/js/main.112e7eb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f6af569.css",
-    "static/js/main.7ab34912.js"
+    "static/css/main.cbd94c71.css",
+    "static/js/main.112e7eb7.js"
   ]
 }
