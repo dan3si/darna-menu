@@ -12,6 +12,8 @@ const Hookahs = () => {
         <div className={styles.hookahs}>
             <h1 className={styles.pageHeading}>Brands</h1>
 
+            <h2 className={styles.pageSubHeading}>(click on brand to see flavors)</h2>
+
             <Link to="/darna-menu/hookahs/al-fakher" className={styles.categoryLink}>
                 <h2 className={styles.categoryHeading}>Al Fakher - $25</h2>
                 <img src={alFakherCategory} className={styles.categoryPicture} />
