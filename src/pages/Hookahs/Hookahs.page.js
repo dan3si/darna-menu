@@ -6,6 +6,7 @@ import socialSmokeCategory from '../../images/hookahs/categories/social-smoke_ca
 import fumariCategory from '../../images/hookahs/categories/fumari_category.jpg'
 import tangiersCategory from '../../images/hookahs/categories/tangiers_category.jpg'
 import darksideCategory from '../../images/hookahs/categories/darkside_category.jpg'
+import adalyaCategory from '../../images/hookahs/categories/adalya_category.jpg'
 
 const Hookahs = () => {
     return (
@@ -17,6 +18,11 @@ const Hookahs = () => {
             <Link to="/darna-menu/hookahs/al-fakher" className={styles.categoryLink}>
                 <h2 className={styles.categoryHeading}>Al Fakher - $25</h2>
                 <img src={alFakherCategory} className={styles.categoryPicture} />
+            </Link>
+
+            <Link to="/darna-menu/hookahs/adalya" className={styles.categoryLink}>
+                <h2 className={styles.categoryHeading}>Adalya - $25</h2>
+                <img src={adalyaCategory} className={styles.categoryPicture} />
             </Link>
             
             <Link to="/darna-menu/hookahs/social-smoke" className={styles.categoryLink}>

@@ -15,6 +15,22 @@ import alFakherGum from './images/hookahs/al_fakher/al_fakher_gum.jpg'
 import alFakherPineapple from './images/hookahs/al_fakher/al_fakher_pineapple.jpg'
 import alFakherMango from './images/hookahs/al_fakher/al_fakher_mango.jpg'
 
+import adalyaAngelLips from './images/hookahs/adalya/adalya_angel_lips.jpg'
+import adalyaBakuNights from './images/hookahs/adalya/adalya_baku_nights.jpg'
+import adalyaBlueMln from './images/hookahs/adalya/adalya_blue_mln.jpg'
+import adalyaBlueOrange from './images/hookahs/adalya/adalya_blue_orange.jpg'
+import adalyaBlueberry from './images/hookahs/adalya/adalya_blueberry.jpg'
+import adalyaDelons from './images/hookahs/adalya/adalya_delons.jpg'
+import adalyaExagelado from './images/hookahs/adalya/adalya_exagelado.jpg'
+import adalyaHawaii from './images/hookahs/adalya/adalya_hawaii.jpg'
+import adalyaLadyKiller from './images/hookahs/adalya/adalya_lady_killer.jpg'
+import adalyaLove66 from './images/hookahs/adalya/adalya_love_66.jpg'
+import adalyaMiamor from './images/hookahs/adalya/adalya_miamor.jpg'
+import adalyaMint from './images/hookahs/adalya/adalya_mint.jpg'
+import adalyaMngTng from './images/hookahs/adalya/adalya_mng_tng.jpg'
+import adalyaSkyfall from './images/hookahs/adalya/adalya_skyfall.jpg'
+import adalyaWatermelon from './images/hookahs/adalya/adalya_watermelon.jpg'
+
 import socialSmokeWatermelonChill from './images/hookahs/social_smoke/social_smoke_watermelon_chill.jpg'
 import socialSmokePearChill from './images/hookahs/social_smoke/social_smoke_pear_chill.jpg'
 import socialSmokeCantaloupeChill from './images/hookahs/social_smoke/social_smoke_cantaloupe_chill.jpg'
@@ -150,6 +166,96 @@ const hookahs = [
         brand: 'Al Fakher',
         flavor: 'Mango',
         picture: alFakherMango,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Angel Lips',
+        picture: adalyaAngelLips,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Baku Nights',
+        picture: adalyaBakuNights,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Blue Mln',
+        picture: adalyaBlueMln,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Blue Orange',
+        picture: adalyaBlueOrange,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Blueberry',
+        picture: adalyaBlueberry,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Delons',
+        picture: adalyaDelons,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Exagelado',
+        picture: adalyaExagelado,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Hawaii',
+        picture: adalyaHawaii,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Lady Killer',
+        picture: adalyaLadyKiller,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Love 66',
+        picture: adalyaLove66,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Miamor',
+        picture: adalyaMiamor,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Mint',
+        picture: adalyaMint,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Mng Tng',
+        picture: adalyaMngTng,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Skyfall',
+        picture: adalyaSkyfall,
+        available: true
+    },
+    {
+        brand: 'Adalya',
+        flavor: 'Watermelon',
+        picture: adalyaWatermelon,
         available: true
     },
     {

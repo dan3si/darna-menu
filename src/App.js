@@ -20,6 +20,8 @@ function App() {
 
             <Route path="/darna-menu/hookahs/al-fakher" element={<HookahBrandPage brand="Al Fakher" price={25} />} />
 
+            <Route path="/darna-menu/hookahs/adalya" element={<HookahBrandPage brand="Adalya" price={25} />} />
+
             <Route path="/darna-menu/hookahs/social-smoke" element={<HookahBrandPage brand="Social Smoke" price={30} />} />
 
             <Route path="/darna-menu/hookahs/fumari" element={<HookahBrandPage brand="Fumari" price={30} />} />
