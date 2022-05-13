@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/darna-menu/static/css/main.cbd94c71.css",
-    "main.js": "/darna-menu/static/js/main.8adb37f6.js",
+    "main.css": "/darna-menu/static/css/main.ed286098.css",
+    "main.js": "/darna-menu/static/js/main.9c0d7b4a.js",
+    "static/media/pelmeni.jpg": "/darna-menu/static/media/pelmeni.111d663bbf37636a5ebf.jpg",
+    "static/media/adalya_category.jpg": "/darna-menu/static/media/adalya_category.fb83a2f2a26704961d42.jpg",
+    "static/media/vareniki.jpg": "/darna-menu/static/media/vareniki.6965b094befd93b6a802.jpg",
     "static/media/al_fakher_pineapple.jpg": "/darna-menu/static/media/al_fakher_pineapple.186258cd609a66b7bee9.jpg",
     "static/media/fumari_tangelo.jpg": "/darna-menu/static/media/fumari_tangelo.b3615c958c3b3d06b335.jpg",
     "static/media/fumari_sweet_mint.jpg": "/darna-menu/static/media/fumari_sweet_mint.42df0d92a9cd9147ea94.jpg",
     "static/media/adalya_blueberry.jpg": "/darna-menu/static/media/adalya_blueberry.aa687ec9bdd84e9a2ef9.jpg",
     "static/media/fumari_red_gummi_bear.jpg": "/darna-menu/static/media/fumari_red_gummi_bear.78f5d5c5da2a0ee12fc8.jpg",
     "static/media/adalya_lady_killer.jpg": "/darna-menu/static/media/adalya_lady_killer.d1978a02d48ebe8bead0.jpg",
+    "static/media/mozzarella_sticks_5.jpg": "/darna-menu/static/media/mozzarella_sticks_5.934430b3ef5cff4b95a5.jpg",
     "static/media/tangiers_strawberry.jpg": "/darna-menu/static/media/tangiers_strawberry.9918e8c75fc0730e74c4.jpg",
     "static/media/fumari_white_gummi_bear.jpg": "/darna-menu/static/media/fumari_white_gummi_bear.5212a1c6e64ea09da1ca.jpg",
     "static/media/tangiers_sevilla_orange.jpg": "/darna-menu/static/media/tangiers_sevilla_orange.329d0a230fb22c98cd36.jpg",
@@ -29,11 +33,11 @@
     "static/media/al_fakher_grapefruit.jpg": "/darna-menu/static/media/al_fakher_grapefruit.eecb979675ea48423aed.jpg",
     "static/media/al_fakher_watermelon.jpg": "/darna-menu/static/media/al_fakher_watermelon.b7ffa7ee05c892ad7198.jpg",
     "static/media/al_fakher_melon.jpg": "/darna-menu/static/media/al_fakher_melon.bec081977d04c02d5800.jpg",
+    "static/media/appetizers_category.jpg": "/darna-menu/static/media/appetizers_category.f623c268a195fa6af2ef.jpg",
     "static/media/adalya_exagelado.jpg": "/darna-menu/static/media/adalya_exagelado.7c7b66ad9356767e8a76.jpg",
     "static/media/al_fakher_peach.jpg": "/darna-menu/static/media/al_fakher_peach.fedc295b34910134f54c.jpg",
     "static/media/al_fakher_lemon.jpg": "/darna-menu/static/media/al_fakher_lemon.17ea3fd0cc7f19c8f3aa.jpg",
     "static/media/al_fakher_coconut.jpg": "/darna-menu/static/media/al_fakher_coconut.2e0794a369d4537cd914.jpg",
-    "static/media/adalya_category.jpg": "/darna-menu/static/media/adalya_category.1de5512ba97bd74af102.jpg",
     "static/media/adalya_love_66.jpg": "/darna-menu/static/media/adalya_love_66.1de5512ba97bd74af102.jpg",
     "static/media/tangiers_new_lemon_lime.jpg": "/darna-menu/static/media/tangiers_new_lemon_lime.8c4ff4cee12809bdf4b3.jpg",
     "static/media/fumari_watermelon.jpg": "/darna-menu/static/media/fumari_watermelon.04616045e4123b43f50f.jpg",
@@ -49,6 +53,8 @@
     "static/media/tangiers_blackberry.jpg": "/darna-menu/static/media/tangiers_blackberry.1e616740b6b142a2c67e.jpg",
     "static/media/adalya_angel_lips.jpg": "/darna-menu/static/media/adalya_angel_lips.cebbdc7904f4afe00aa4.jpg",
     "static/media/adalya_hawaii.jpg": "/darna-menu/static/media/adalya_hawaii.520b79adfd6d03fe74fd.jpg",
+    "static/media/fries.jpg": "/darna-menu/static/media/fries.cc9812cf2133c42e0aef.jpg",
+    "static/media/hookahs_category.jpg": "/darna-menu/static/media/hookahs_category.e4728dab90c6ab449b8a.jpg",
     "static/media/fumari_blueberry_muffin.jpg": "/darna-menu/static/media/fumari_blueberry_muffin.14d8ee42e124d49993eb.jpg",
     "static/media/tangiers_summer_resort.jpg": "/darna-menu/static/media/tangiers_summer_resort.8d522abe4f9f43fbb1b0.jpg",
     "static/media/tangiers_watermelon.jpg": "/darna-menu/static/media/tangiers_watermelon.baa94e9f3f135864bb26.jpg",
@@ -69,16 +75,18 @@
     "static/media/tangiers_category.jpg": "/darna-menu/static/media/tangiers_category.a2d49c3cf67fc2d4ae62.jpg",
     "static/media/hookah-logo.png": "/darna-menu/static/media/hookah-logo.05a7157f29630e6fcd0d.png",
     "static/media/al-fakher_category.jpg": "/darna-menu/static/media/al-fakher_category.f8d76488f849aa18772f.jpg",
+    "static/media/mozzarella_sticks_10.jpg": "/darna-menu/static/media/mozzarella_sticks_10.4813bf0cefab2fe48386.jpg",
     "static/media/adalya_baku_nights.jpg": "/darna-menu/static/media/adalya_baku_nights.c75523d17541a86732de.jpg",
+    "static/media/chicken_wings.jpg": "/darna-menu/static/media/chicken_wings.dc7ca090ae027e4eafee.jpg",
     "static/media/tangiers_papaya_sorbet.jpg": "/darna-menu/static/media/tangiers_papaya_sorbet.12410ca2a4435a543dc8.jpg",
     "static/media/adalya_watermelon.jpg": "/darna-menu/static/media/adalya_watermelon.f4633c274dabef94f3cf.jpg",
     "static/media/fumari_category.jpg": "/darna-menu/static/media/fumari_category.7f6ba07d99ba86739d78.jpg",
     "index.html": "/darna-menu/index.html",
-    "main.cbd94c71.css.map": "/darna-menu/static/css/main.cbd94c71.css.map",
-    "main.8adb37f6.js.map": "/darna-menu/static/js/main.8adb37f6.js.map"
+    "main.ed286098.css.map": "/darna-menu/static/css/main.ed286098.css.map",
+    "main.9c0d7b4a.js.map": "/darna-menu/static/js/main.9c0d7b4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbd94c71.css",
-    "static/js/main.8adb37f6.js"
+    "static/css/main.ed286098.css",
+    "static/js/main.9c0d7b4a.js"
   ]
 }
