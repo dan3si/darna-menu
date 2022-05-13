@@ -1,0 +1,35 @@
+.link {
+    width: 100%;
+    max-width: 500px;
+    padding: 30px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    font-size: 24px;
+    border-bottom: 1px solid #ffaa80;
+    transition: 1s;
+
+    @media (max-width: 500px) {
+        flex-direction: column;
+    }
+}
+
+.link:hover {
+    border-color: darken(#ffaa80, 15%);
+
+    .picture {
+        transform: scale(1.05);
+    }
+}
+
+.heading {
+    font-size: 24px;
+    color: black;
+    font-family: 'Times New Roman';
+}
+
+.picture {
+    width: 200px;
+    transition: 0.5s;
+}
