@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/darna-menu/static/css/main.ed286098.css",
-    "main.js": "/darna-menu/static/js/main.9c0d7b4a.js",
+    "main.js": "/darna-menu/static/js/main.bd378a30.js",
     "static/media/pelmeni.jpg": "/darna-menu/static/media/pelmeni.111d663bbf37636a5ebf.jpg",
     "static/media/adalya_category.jpg": "/darna-menu/static/media/adalya_category.fb83a2f2a26704961d42.jpg",
     "static/media/vareniki.jpg": "/darna-menu/static/media/vareniki.6965b094befd93b6a802.jpg",
@@ -54,6 +54,7 @@
     "static/media/adalya_angel_lips.jpg": "/darna-menu/static/media/adalya_angel_lips.cebbdc7904f4afe00aa4.jpg",
     "static/media/adalya_hawaii.jpg": "/darna-menu/static/media/adalya_hawaii.520b79adfd6d03fe74fd.jpg",
     "static/media/fries.jpg": "/darna-menu/static/media/fries.cc9812cf2133c42e0aef.jpg",
+    "static/media/food_category.jpg": "/darna-menu/static/media/food_category.9bb34947cf251654171e.jpg",
     "static/media/hookahs_category.jpg": "/darna-menu/static/media/hookahs_category.e4728dab90c6ab449b8a.jpg",
     "static/media/fumari_blueberry_muffin.jpg": "/darna-menu/static/media/fumari_blueberry_muffin.14d8ee42e124d49993eb.jpg",
     "static/media/tangiers_summer_resort.jpg": "/darna-menu/static/media/tangiers_summer_resort.8d522abe4f9f43fbb1b0.jpg",
@@ -83,10 +84,10 @@
     "static/media/fumari_category.jpg": "/darna-menu/static/media/fumari_category.7f6ba07d99ba86739d78.jpg",
     "index.html": "/darna-menu/index.html",
     "main.ed286098.css.map": "/darna-menu/static/css/main.ed286098.css.map",
-    "main.9c0d7b4a.js.map": "/darna-menu/static/js/main.9c0d7b4a.js.map"
+    "main.bd378a30.js.map": "/darna-menu/static/js/main.bd378a30.js.map"
   },
   "entrypoints": [
     "static/css/main.ed286098.css",
-    "static/js/main.9c0d7b4a.js"
+    "static/js/main.bd378a30.js"
   ]
 }
