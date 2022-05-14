@@ -1,15 +1,13 @@
 import hookahs from './hookahs/hookahs'
 import food from './food/food'
 
-const items = {
-    type: 'categories',
-    path: '/darna-menu',
-    header: 'Categories',
-    subHeader: null,
-    data: [
+const menu = {
+    name: 'Categories',
+    contentType: 'categories',
+    items: [
         hookahs,
         food
     ]
 }
 
-export default items
+export default menu

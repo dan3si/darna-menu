@@ -9,22 +9,16 @@ import darkside from './darkside/darkside'
 
 const hookahs = {
     name: 'Hookahs',
-    linkTo: '/darna-menu/hookahs',
+    contentType: 'categories',
     picture: hookahsCategory,
-    items: {
-        type: 'categories',
-        path: '/darna-menu/hookahs',
-        header: 'Brands',
-        subHeader: 'Click on brand to see flavors',
-        data: [
-            alFakher,
-            adalya,
-            socialSmoke,
-            fumari,
-            tangiers,
-            darkside
-        ]
-    }
+    items: [
+        alFakher,
+        adalya,
+        socialSmoke,
+        fumari,
+        tangiers,
+        darkside
+    ]
 }
 
 export default hookahs

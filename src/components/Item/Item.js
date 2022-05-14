@@ -13,6 +13,7 @@ const Item = ({ name, picture, price, available }) => {
                 <img
                     src={picture}
                     className={styles.picture}
+                    alt={name}
                 />
             </div>
         </div>

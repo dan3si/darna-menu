@@ -1,20 +1,16 @@
 import foodCategory from './images/food_category.jpg'
 
 import appetizers from './appetizers/appetizers'
+import panini from './panini/panini'
 
 const food = {
     name: 'Food',
-    linkTo: '/darna-menu/food',
+    contentType: 'categories',
     picture: foodCategory,
-    items: {
-        type: 'categories',
-        path: '/darna-menu/food',
-        header: 'Food',
-        subHeader: null,
-        data: [
-            appetizers,
-        ]
-    }
+    items: [
+        appetizers,
+        panini
+    ]
 }
 
 export default food

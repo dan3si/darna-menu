@@ -5,7 +5,7 @@ const Category = ({ name, picture, link }) => {
     return (
         <Link to={link} className={styles.link}>
             <h2 className={styles.heading}>{name}</h2>
-            <img src={picture} className={styles.picture} />
+            <img src={picture} className={styles.picture} alt={`${name} category`} />
         </Link>
     )
 }

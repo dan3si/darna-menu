@@ -18,106 +18,100 @@ import adalyaWatermelon from './images/adalya_watermelon.jpg'
 
 const adalya = {
     name: 'Adalya',
-    linkTo: '/darna-menu/hookahs/adalya',
+    contentType: 'items',
     picture: adalyaCategory,
-    items: {
-        type: 'items',
-        path: '/darna-menu/hookahs/adalya',
-        header: 'Adalya',
-        subHeader: null,
-        data: [
-            {
-                name: 'Angel Lips',
-                price: 30,
-                picture: adalyaAngelLips,
-                available: true
-            },
-            {
-                name: 'Baku Nights',
-                price: 30,
-                picture: adalyaBakuNights,
-                available: true
-            },
-            {
-                name: 'Blue Mln',
-                price: 30,
-                picture: adalyaBlueMln,
-                available: true
-            },
-            {
-                name: 'Blue Orange',
-                price: 30,
-                picture: adalyaBlueOrange,
-                available: true
-            },
-            {
-                name: 'Blueberry',
-                price: 30,
-                picture: adalyaBlueberry,
-                available: true
-            },
-            {
-                name: 'Delons',
-                price: 30,
-                picture: adalyaDelons,
-                available: true
-            },
-            {
-                name: 'Exagelado',
-                price: 30,
-                picture: adalyaExagelado,
-                available: true
-            },
-            {
-                name: 'Hawaii',
-                price: 30,
-                picture: adalyaHawaii,
-                available: true
-            },
-            {
-                name: 'Lady Killer',
-                price: 30,
-                picture: adalyaLadyKiller,
-                available: true
-            },
-            {
-                name: 'Love 66',
-                price: 30,
-                picture: adalyaLove66,
-                available: true
-            },
-            {
-                name: 'Miamor',
-                price: 30,
-                picture: adalyaMiamor,
-                available: true
-            },
-            {
-                name: 'Mint',
-                price: 30,
-                picture: adalyaMint,
-                available: true
-            },
-            {
-                name: 'Mng Tng',
-                price: 30,
-                picture: adalyaMngTng,
-                available: true
-            },
-            {
-                name: 'Skyfall',
-                price: 30,
-                picture: adalyaSkyfall,
-                available: true
-            },
-            {
-                name: 'Watermelon',
-                price: 30,
-                picture: adalyaWatermelon,
-                available: true
-            },
-        ]
-    }
+    items: [
+        {
+            name: 'Angel Lips',
+            price: 30,
+            picture: adalyaAngelLips,
+            available: true
+        },
+        {
+            name: 'Baku Nights',
+            price: 30,
+            picture: adalyaBakuNights,
+            available: true
+        },
+        {
+            name: 'Blue Mln',
+            price: 30,
+            picture: adalyaBlueMln,
+            available: true
+        },
+        {
+            name: 'Blue Orange',
+            price: 30,
+            picture: adalyaBlueOrange,
+            available: true
+        },
+        {
+            name: 'Blueberry',
+            price: 30,
+            picture: adalyaBlueberry,
+            available: true
+        },
+        {
+            name: 'Delons',
+            price: 30,
+            picture: adalyaDelons,
+            available: true
+        },
+        {
+            name: 'Exagelado',
+            price: 30,
+            picture: adalyaExagelado,
+            available: true
+        },
+        {
+            name: 'Hawaii',
+            price: 30,
+            picture: adalyaHawaii,
+            available: true
+        },
+        {
+            name: 'Lady Killer',
+            price: 30,
+            picture: adalyaLadyKiller,
+            available: true
+        },
+        {
+            name: 'Love 66',
+            price: 30,
+            picture: adalyaLove66,
+            available: true
+        },
+        {
+            name: 'Miamor',
+            price: 30,
+            picture: adalyaMiamor,
+            available: true
+        },
+        {
+            name: 'Mint',
+            price: 30,
+            picture: adalyaMint,
+            available: true
+        },
+        {
+            name: 'Mng Tng',
+            price: 30,
+            picture: adalyaMngTng,
+            available: true
+        },
+        {
+            name: 'Skyfall',
+            price: 30,
+            picture: adalyaSkyfall,
+            available: true
+        },
+        {
+            name: 'Watermelon',
+            price: 30,
+            picture: adalyaWatermelon,
+            available: true
+        },
+    ]
 }
 
 export default adalya

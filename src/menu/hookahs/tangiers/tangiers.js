@@ -19,112 +19,106 @@ import tangiersWatermelon from './images/tangiers_watermelon.jpg'
 
 const tangiers = {
     name: 'Tangiers',
-    linkTo: '/darna-menu/hookahs/tangiers',
+    contentType: 'items',
     picture: tangiersCategory,
-    items: {
-        type: 'items',
-        path: '/darna-menu/hookahs/tangiers',
-        header: 'Tangiers',
-        subHeader: null,
-        data: [
-            {
-                name: 'Blackberry',
-                price: 35,
-                picture: tangiersBlackberry,
-                available: true
-            },
-            {
-                name: 'Blueberry',
-                price: 35,
-                picture: tangiersBlueberry,
-                available: true
-            },
-            {
-                name: 'Brambleberry',
-                price: 35,
-                picture: tangiersBrambleberry,
-                available: true
-            },
-            {
-                name: 'Cane Mint',
-                price: 35,
-                picture: tangiersCaneMint,
-                available: true
-            },
-            {
-                name: 'Experimint',
-                price: 35,
-                picture: tangiersExperimint,
-                available: true
-            },
-            {
-                name: 'Kashmir Blue',
-                price: 35,
-                picture: tangiersKashmirBlue,
-                available: true
-            },
-            {
-                name: 'New Lemon Lime',
-                price: 35,
-                picture: tangiersNewLemonLime,
-                available: true
-            },
-            {
-                name: 'Papaya Sorbet',
-                price: 35,
-                picture: tangiersPapayaSorbet,
-                available: true
-            },
-            {
-                name: 'Peach Iced Tea',
-                price: 35,
-                picture: tangiersPeachIcedTea,
-                available: true
-            },
-            {
-                name: 'Raspberry',
-                price: 35,
-                picture: tangiersRaspberry,
-                available: true
-            },
-            {
-                name: 'Sevilla Orange',
-                price: 35,
-                picture: tangiersSevillaOrange,
-                available: true
-            },
-            {
-                name: 'Strawberry',
-                price: 35,
-                picture: tangiersStrawberry,
-                available: true
-            },
-            {
-                name: 'Summer Resort',
-                price: 35,
-                picture: tangiersSummerResort,
-                available: true
-            },
-            {
-                name: 'Tasty Peach',
-                price: 35,
-                picture: tangiersTastyPeach,
-                available: true
-            },
-            {
-                name: 'Tropical Punch',
-                price: 35,
-                picture: tangiersTropicalPunch,
-                available: true
-            },
-            {
-                name: 'Watermelon',
-                price: 35,
-                picture: tangiersWatermelon,
-                available: true
-            }
-        ]
-    }
+    items: [
+        {
+            name: 'Blackberry',
+            price: 35,
+            picture: tangiersBlackberry,
+            available: true
+        },
+        {
+            name: 'Blueberry',
+            price: 35,
+            picture: tangiersBlueberry,
+            available: true
+        },
+        {
+            name: 'Brambleberry',
+            price: 35,
+            picture: tangiersBrambleberry,
+            available: true
+        },
+        {
+            name: 'Cane Mint',
+            price: 35,
+            picture: tangiersCaneMint,
+            available: true
+        },
+        {
+            name: 'Experimint',
+            price: 35,
+            picture: tangiersExperimint,
+            available: true
+        },
+        {
+            name: 'Kashmir Blue',
+            price: 35,
+            picture: tangiersKashmirBlue,
+            available: true
+        },
+        {
+            name: 'New Lemon Lime',
+            price: 35,
+            picture: tangiersNewLemonLime,
+            available: true
+        },
+        {
+            name: 'Papaya Sorbet',
+            price: 35,
+            picture: tangiersPapayaSorbet,
+            available: true
+        },
+        {
+            name: 'Peach Iced Tea',
+            price: 35,
+            picture: tangiersPeachIcedTea,
+            available: true
+        },
+        {
+            name: 'Raspberry',
+            price: 35,
+            picture: tangiersRaspberry,
+            available: true
+        },
+        {
+            name: 'Sevilla Orange',
+            price: 35,
+            picture: tangiersSevillaOrange,
+            available: true
+        },
+        {
+            name: 'Strawberry',
+            price: 35,
+            picture: tangiersStrawberry,
+            available: true
+        },
+        {
+            name: 'Summer Resort',
+            price: 35,
+            picture: tangiersSummerResort,
+            available: true
+        },
+        {
+            name: 'Tasty Peach',
+            price: 35,
+            picture: tangiersTastyPeach,
+            available: true
+        },
+        {
+            name: 'Tropical Punch',
+            price: 35,
+            picture: tangiersTropicalPunch,
+            available: true
+        },
+        {
+            name: 'Watermelon',
+            price: 35,
+            picture: tangiersWatermelon,
+            available: true
+        }
+    ]
 }
 
 export default tangiers

@@ -1,3 +1,5 @@
+import rootPath from './utils/rootPath'
+
 import styles from './App.module.scss'
 import Header from './components/Header'
 import ItemsList from './components/ItemsList'
@@ -8,15 +10,19 @@ import {
   Switch,
 } from "react-router-dom";
 
+import ScrollToTop from 'react-router-scroll-top'
+
 function App() {
   return (
     <div className={styles.app}>
       <Router>
-        <Header />
+        <ScrollToTop>
+          <Header />
 
-        <Switch>
-          <ItemsList items={menu} />
-        </Switch>
+          <Switch>
+            <ItemsList category={menu} path={rootPath} />
+          </Switch>
+        </ScrollToTop>
       </Router>
     </div>
   );
