@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/darna-menu/static/css/main.ed286098.css",
-    "main.js": "/darna-menu/static/js/main.09ee93cf.js",
+    "main.js": "/darna-menu/static/js/main.22a9818d.js",
     "static/media/lava_cake.jpg": "/darna-menu/static/media/lava_cake.08f29075728e81afce77.jpg",
     "static/media/sparkling_wine_category.jpg": "/darna-menu/static/media/sparkling_wine_category.b1d690400ef8ff60be64.jpg",
     "static/media/wine_category.jpg": "/darna-menu/static/media/wine_category.0fe94bfb1add9b8e6b43.jpg",
@@ -136,10 +136,10 @@
     "static/media/sprite.jpg": "/darna-menu/static/media/sprite.4788772bf62dfcb7f142.jpg",
     "index.html": "/darna-menu/index.html",
     "main.ed286098.css.map": "/darna-menu/static/css/main.ed286098.css.map",
-    "main.09ee93cf.js.map": "/darna-menu/static/js/main.09ee93cf.js.map"
+    "main.22a9818d.js.map": "/darna-menu/static/js/main.22a9818d.js.map"
   },
   "entrypoints": [
     "static/css/main.ed286098.css",
-    "static/js/main.09ee93cf.js"
+    "static/js/main.22a9818d.js"
   ]
 }
