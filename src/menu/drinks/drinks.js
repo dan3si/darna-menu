@@ -10,6 +10,7 @@ const drinks = {
     name: 'Drinks',
     contentType: 'categories',
     picture: drinksCategory,
+    available: true,
     items: [
         tea,
         coffee,

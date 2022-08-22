@@ -8,22 +8,23 @@ const darkside = {
     name: 'Darkside',
     contentType: 'items',
     picture: darksideCategory,
+    available: false,
     items: [
         {
             name: 'Blueberry Blast',
-            price: 35,
+            price: null,
             picture: darksideBlueberryBlast,
             available: false
         },
         {
             name: 'Dark Mint',
-            price: 35,
+            price: null,
             picture: darksideDarkMint,
             available: false
         },
         {
             name: 'Lemon Blast',
-            price: 35,
+            price: null,
             picture: darksideLemonBlast,
             available: false
         }

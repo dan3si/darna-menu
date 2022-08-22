@@ -10,6 +10,7 @@ const desserts = {
     name: 'Desserts',
     contentType: 'items',
     picture: dessertsCategory,
+    available: true,
     items: [
         {
             name: 'Tiramisu',

@@ -20,94 +20,95 @@ const adalya = {
     name: 'Adalya',
     contentType: 'items',
     picture: adalyaCategory,
+    available: true,
     items: [
         {
             name: 'Angel Lips',
-            price: 30,
+            price: null,
             picture: adalyaAngelLips,
             available: true
         },
         {
             name: 'Baku Nights',
-            price: 30,
+            price: null,
             picture: adalyaBakuNights,
             available: true
         },
         {
             name: 'Blue Mln',
-            price: 30,
+            price: null,
             picture: adalyaBlueMln,
             available: true
         },
         {
             name: 'Blue Orange',
-            price: 30,
+            price: null,
             picture: adalyaBlueOrange,
             available: true
         },
         {
             name: 'Blueberry',
-            price: 30,
+            price: null,
             picture: adalyaBlueberry,
             available: true
         },
         {
             name: 'Delons',
-            price: 30,
+            price: null,
             picture: adalyaDelons,
             available: true
         },
         {
             name: 'Exagelado',
-            price: 30,
+            price: null,
             picture: adalyaExagelado,
             available: true
         },
         {
             name: 'Hawaii',
-            price: 30,
+            price: null,
             picture: adalyaHawaii,
             available: true
         },
         {
             name: 'Lady Killer',
-            price: 30,
+            price: null,
             picture: adalyaLadyKiller,
             available: true
         },
         {
             name: 'Love 66',
-            price: 30,
+            price: null,
             picture: adalyaLove66,
             available: true
         },
         {
             name: 'Miamor',
-            price: 30,
+            price: null,
             picture: adalyaMiamor,
             available: true
         },
         {
             name: 'Mint',
-            price: 30,
+            price: null,
             picture: adalyaMint,
             available: true
         },
         {
             name: 'Mng Tng',
-            price: 30,
+            price: null,
             picture: adalyaMngTng,
             available: true
         },
         {
             name: 'Skyfall',
-            price: 30,
+            price: null,
             picture: adalyaSkyfall,
             available: true
         },
         {
             name: 'Watermelon',
-            price: 30,
+            price: null,
             picture: adalyaWatermelon,
             available: true
         },

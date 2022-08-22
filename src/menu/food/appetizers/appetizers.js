@@ -11,6 +11,7 @@ const appetizers = {
     name: 'Appetizers',
     contentType: 'items',
     picture: appetizersCategory,
+    available: true,
     items: [
         {
             name: 'Chicken Wings',

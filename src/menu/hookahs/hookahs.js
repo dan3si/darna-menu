@@ -11,6 +11,7 @@ const hookahs = {
     name: 'Hookahs',
     contentType: 'categories',
     picture: hookahsCategory,
+    available: true,
     items: [
         alFakher,
         adalya,

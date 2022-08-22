@@ -11,6 +11,7 @@ const tea = {
     name: 'Tea',
     contentType: 'items',
     picture: teaCategory,
+    available: true,
     items: [
         {
             name: 'Green Tea',

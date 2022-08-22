@@ -21,100 +21,101 @@ const tangiers = {
     name: 'Tangiers',
     contentType: 'items',
     picture: tangiersCategory,
+    available: true,
     items: [
         {
             name: 'Blackberry',
-            price: 35,
+            price: null,
             picture: tangiersBlackberry,
             available: true
         },
         {
             name: 'Blueberry',
-            price: 35,
+            price: null,
             picture: tangiersBlueberry,
             available: true
         },
         {
             name: 'Brambleberry',
-            price: 35,
+            price: null,
             picture: tangiersBrambleberry,
             available: true
         },
         {
             name: 'Cane Mint',
-            price: 35,
+            price: null,
             picture: tangiersCaneMint,
             available: true
         },
         {
             name: 'Experimint',
-            price: 35,
+            price: null,
             picture: tangiersExperimint,
             available: true
         },
         {
             name: 'Kashmir Blue',
-            price: 35,
+            price: null,
             picture: tangiersKashmirBlue,
             available: true
         },
         {
             name: 'New Lemon Lime',
-            price: 35,
+            price: null,
             picture: tangiersNewLemonLime,
             available: true
         },
         {
             name: 'Papaya Sorbet',
-            price: 35,
+            price: null,
             picture: tangiersPapayaSorbet,
             available: true
         },
         {
             name: 'Peach Iced Tea',
-            price: 35,
+            price: null,
             picture: tangiersPeachIcedTea,
             available: true
         },
         {
             name: 'Raspberry',
-            price: 35,
+            price: null,
             picture: tangiersRaspberry,
             available: true
         },
         {
             name: 'Sevilla Orange',
-            price: 35,
+            price: null,
             picture: tangiersSevillaOrange,
             available: true
         },
         {
             name: 'Strawberry',
-            price: 35,
+            price: null,
             picture: tangiersStrawberry,
             available: true
         },
         {
             name: 'Summer Resort',
-            price: 35,
+            price: null,
             picture: tangiersSummerResort,
             available: true
         },
         {
             name: 'Tasty Peach',
-            price: 35,
+            price: null,
             picture: tangiersTastyPeach,
             available: true
         },
         {
             name: 'Tropical Punch',
-            price: 35,
+            price: null,
             picture: tangiersTropicalPunch,
             available: true
         },
         {
             name: 'Watermelon',
-            price: 35,
+            price: null,
             picture: tangiersWatermelon,
             available: true
         }

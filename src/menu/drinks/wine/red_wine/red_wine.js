@@ -9,6 +9,7 @@ const redWine = {
     name: 'Red Wine',
     contentType: 'items',
     picture: redWineCategory,
+    available: true,
     items: [
         {
             name: 'Pinot Noir',

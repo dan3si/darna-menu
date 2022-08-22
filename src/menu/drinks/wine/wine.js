@@ -8,6 +8,7 @@ const wine = {
     name: 'Wine',
     contentType: 'categories',
     picture: wineCategory,
+    available: true,
     items: [
         redWine,
         whiteWine,

@@ -8,6 +8,7 @@ const beerBottles = {
     name: 'Beer Bottles',
     contentType: 'items',
     picture: beerBottlesCategory,
+    available: true,
     items: [
         {
             name: 'Stella Artois',

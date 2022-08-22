@@ -13,6 +13,7 @@ const coffee = {
     name: 'Coffee',
     contentType: 'items',
     picture: coffeeCategory,
+    available: true,
     items: [
         {
             name: 'Cappuccino',

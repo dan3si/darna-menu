@@ -8,6 +8,7 @@ const food = {
     name: 'Food',
     contentType: 'categories',
     picture: foodCategory,
+    available: true,
     items: [
         appetizers,
         panini,

@@ -7,59 +7,47 @@ import { toKebabCase } from '../../utils/functions'
 import React from 'react';
 
 const ItemsList = ({ category, path }) => {
-    switch (category.contentType) {
-        case 'categories':
-            return (
-                <>
-                    <Route path={path} exact>
-                        <CategoryHeader header={category.name} />
-                    </Route>
+    return (
+        <>
+            <Route path={path} exact>
+                <CategoryHeader header={category.name} />
+            </Route>
 
-                    {category.items.map(
-                        item => (
-                            <React.Fragment key={item.name}>
-                                <Route path={path} exact>
+            {category.items.map(
+                item => {
+                    if (item.available === false) {
+                        return null
+                    }
+
+                    return (
+                        <React.Fragment key={item.name}>
+                            <Route path={path} exact>
+                                {category.contentType === 'categories' && (
                                     <Category
                                         name={item.name}
                                         picture={item.picture}
                                         link={`${path}/${toKebabCase(item.name)}`}
                                     />
-                                </Route>
-
-                                <ItemsList category={item} path={`${path}/${toKebabCase(item.name)}`}/>
-                            </React.Fragment>
-                        )
-                    )}
-                </>
-            )
-
-        case 'items':
-            return (
-                <>
-                    <Route path={path} exact>
-                        <CategoryHeader header={category.name} />
-                    </Route>
-
-                    {category.items.map(
-                        item => (
-                            <React.Fragment key={item.name}>
-                                <Route path={path} exact>
+                                )}
+                                
+                                {category.contentType === 'items' && (
                                     <Item
                                         name={item.name}
                                         picture={item.picture}
                                         price={item.price}
-                                        available={item.available}
                                     />
-                                </Route>
-                            </React.Fragment>
-                        )
-                    )}
-                </>
-            )
+                                )}
+                            </Route>
 
-        default:
-            return null
-    }
+                            {category.contentType === 'categories' && (
+                                <ItemsList category={item} path={`${path}/${toKebabCase(item.name)}`} />
+                            )}
+                        </React.Fragment>
+                    )
+                }
+            )}
+        </>
+    )
     
 }
 

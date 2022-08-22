@@ -19,6 +19,7 @@ const coldDrinks = {
     name: 'Cold Drinks',
     contentType: 'items',
     picture: coldDrinksCategory,
+    available: true,
     items: [
         {
             name: 'Orange Fresh',

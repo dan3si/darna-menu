@@ -7,6 +7,7 @@ const sparklingWine = {
     name: 'Sparkling',
     contentType: 'items',
     picture: sparklingWineCategory,
+    available: true,
     items: [
         {
             name: 'Moscato',

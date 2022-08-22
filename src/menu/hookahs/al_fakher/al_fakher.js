@@ -21,101 +21,102 @@ const alFakher = {
     name: 'Al Fakher',
     contentType: 'items',
     picture: alFakherCategory,
+    available: true,
     items: [
         {
             name: 'Blueberry',
-            price: 25,
+            price: null,
             picture: alFakherBlueberry,
             available: true
         },
         {
             name: 'Peach',
-            price: 25,
+            price: null,
             picture: alFakherPeach,
             available: true
     
         },
         {
             name: 'Double apple',
-            price: 25,
+            price: null,
             picture: alFakherDoubleApple,
             available: true
         },
         {
             name: 'Orange',
-            price: 25,
+            price: null,
             picture: alFakherOrange,
             available: true
         },
         {
             name: 'Grapefruit',
-            price: 25,
+            price: null,
             picture: alFakherGrapefruit,
             available: true
         },
         {
             name: 'Qiwi',
-            price: 25,
+            price: null,
             picture: alFakherQiwi,
             available: true
         },
         {
             name: 'Strawberry',
-            price: 25,
+            price: null,
             picture: alFakherStrawberry,
             available: true
         },
         {
             name: 'Mint',
-            price: 25,
+            price: null,
             picture: alFakherMint,
             available: true
         },
         {
             name: 'Watermelon',
-            price: 25,
+            price: null,
             picture: alFakherWatermelon,
             available: true
         },
         {
             name: 'Grape',
-            price: 25,
+            price: null,
             picture: alFakherGrape,
             available: true
         },
         {
             name: 'Lemon',
-            price: 25,
+            price: null,
             picture: alFakherLemon,
             available: true
         },
         {
             name: 'Melon',
-            price: 25,
+            price: null,
             picture: alFakherMelon,
             available: true
         },
         {
             name: 'Coconut',
-            price: 25,
+            price: null,
             picture: alFakherCoconut,
             available: true
         },
         {
             name: 'Gum',
-            price: 25,
+            price: null,
             picture: alFakherGum,
             available: true
         },
         {
             name: 'Pineapple',
-            price: 25,
+            price: null,
             picture: alFakherPineapple,
             available: true
         },
         {
             name: 'Mango',
-            price: 25,
+            price: null,
             picture: alFakherMango,
             available: true
         }

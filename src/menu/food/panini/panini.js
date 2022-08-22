@@ -9,6 +9,7 @@ const panini = {
     name: 'Panini',
     contentType: 'items',
     picture: paniniCategory,
+    available: true,
     items: [
         {
             name: 'Beef Philly Cheese',

@@ -8,22 +8,23 @@ const socialSmoke = {
     name: 'Social Smoke',
     contentType: 'items',
     picture: socialSmokeCategory,
+    available: true,
     items: [
         {
             name: 'Watermelon chill',
-            price: 30,
+            price: null,
             picture: socialSmokeWatermelonChill,
             available: true
         },
         {
             name: 'Pear chill',
-            price: 30,
+            price: null,
             picture: socialSmokePearChill,
             available: true
         },
         {
             name: 'Cantaloupe chill',
-            price: 30,
+            price: null,
             picture: socialSmokeCantaloupeChill,
             available: true
         }

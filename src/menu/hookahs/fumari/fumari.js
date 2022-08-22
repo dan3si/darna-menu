@@ -18,82 +18,83 @@ const fumari = {
     name: 'Fumari',
     contentType: 'items',
     picture: fumariCategory,
+    available: true,
     items: [
         {
             name: 'Sweet mint',
-            price: 30,
+            price: null,
             picture: fumariSweetMint,
             available: true
         },
         {
             name: 'Tangelo',
-            price: 30,
+            price: null,
             picture: fumariTangelo,
             available: true
         },
         {
             name: 'Lemon loaf',
-            price: 30,
+            price: null,
             picture: fumariLemonLoaf,
             available: true
         },
         {
             name: 'Ambrosia',
-            price: 30,
+            price: null,
             picture: fumariAmbrosia,
             available: true
         },
         {
             name: 'Blueberry Muffin',
-            price: 30,
+            price: null,
             picture: fumariBlueberryMuffin,
             available: true
         },
         {
             name: 'Summer Sorbetto',
-            price: 30,
+            price: null,
             picture: fumariSummerSorbetto,
             available: true
         },
         {
             name: 'Watermelon',
-            price: 30,
+            price: null,
             picture: fumariWatermelon,
             available: true
         },
         {
             name: 'Red Gummi Bear',
-            price: 30,
+            price: null,
             picture: fumariRedGummiBear,
             available: true
         },
         {
             name: 'White Gummi Bear',
-            price: 30,
+            price: null,
             picture: fumariWhiteGummiBear,
             available: true
         },
         {
             name: 'Purple grape',
-            price: 30,
+            price: null,
             picture: fumariPurpleGrape,
             available: true
         },
         {
             name: 'Prickly Pear',
-            price: 30,
+            price: null,
             picture: fumariPricklyPear,
             available: true
         },
         {
             name: 'Carribean Collada',
-            price: 30,
+            price: null,
             picture: fumariCarribeanCollada,
             available: true
         },
         {
             name: 'Mojito',
-            price: 30,
+            price: null,
             picture: fumariMojito,
             available: true
         },
